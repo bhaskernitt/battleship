@@ -1,0 +1,20 @@
+#do not change file format
+#DIRECTION HORIZONTAL=0 VERTICAL=1
+#LENGTH SHIP LENGTH
+#order will be ROW=D,COLUMN=1,LENGTH=2,DIRECTION=1
+#  1 2 3 4 5 6 7 8 9 10
+#A - - - - - - - - - -
+#B - - - - - - - - - -
+#C - - - - - - - - - -
+#D - - - - - - - - - -
+#E - - - - - - - - - -
+#F - - - - - - - - - -
+#G - - - - - - - - - -
+#H - - - - - - - - - -
+#I - - - - - - - - - -
+#J - - - - - - - - - -
+ROW=A,COLUMN=1,LENGTH=2,DIRECTION=1
+ROW=A,COLUMN=2,LENGTH=3,DIRECTION=1
+ROW=A,COLUMN=3,LENGTH=3,DIRECTION=1
+ROW=A,COLUMN=4,LENGTH=4,DIRECTION=1
+ROW=A,COLUMN=10,LENGTH=5,DIRECTION=1
